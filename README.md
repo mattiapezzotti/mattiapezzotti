@@ -1,6 +1,6 @@
 ## Ciao! 
 
-I'm **Mattia**, I'm studying **Computer Science** at Milano Bicocca University 🎓. 
+I'm **Mattia**, **Master Computer Science** gradutate at Milano Bicocca University 🎓. 
 
 Intrests:
 - Hike 🥾
