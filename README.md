@@ -4,5 +4,5 @@ I'm **Mattia**, **Master Computer Science** gradutate at Milano Bicocca Universi
 
 Intrests:
 - Hike 🥾
-- Travel 🗺️
+- Climb 🧗
 - Videogames 🎮
